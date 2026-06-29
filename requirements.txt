@@ -1,4 +1,4 @@
-matplotlib<3.11
+matplotlib<3.12
 numpy<2.6
 pandas<3.1
 pymannkendall<1.5
