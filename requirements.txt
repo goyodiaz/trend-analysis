@@ -1,6 +1,6 @@
-matplotlib<3.12
-numpy<2.6
-pandas<3.2
+matplotlib<4
+numpy<3
+pandas<4
 pymannkendall<1.5
-streamlit<1.67
+streamlit<2
 
